@@ -1,0 +1,7 @@
+{
+  "name": "GenAI Nexus",
+  "description": "A comprehensive AI productivity platform for generating slides, documents, picture books, data analysis, and audio summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
